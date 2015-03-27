@@ -15,7 +15,7 @@ from setuptools import setup, find_packages
 
 
 README = open(os.path.join(os.path.dirname(__file__), 'README.md')).read()
-
+print 'just testing....'
 setup(
     url='http://panel.tizen.org',
     name='iris',
